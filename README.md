@@ -1,6 +1,7 @@
 <html>
-<h1>
+<body>
+<h1 style= "color:red">
 TESTE  
 </h1>
-  
+</body>  
 </html>
